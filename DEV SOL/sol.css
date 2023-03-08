@@ -1,0 +1,35 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+li {
+	display: inline-block;
+	margin: 0 10px;
+}
+
+form {
+	margin-top: 20px;
+}
+
+label {
+	display: inline-block;
+	margin-bottom: 10px;
+}
+
+input[type="number"] {
+	width: 50px;
+	margin-right: 10px;
+}
+
+input[type="submit"] {
+	margin-top: 10px;
+}
